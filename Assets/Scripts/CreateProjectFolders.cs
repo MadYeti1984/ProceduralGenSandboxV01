@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 using System.IO;
+//This script is designed to create the standard folder structure in a new Unity project by following best practices
 
 public class CreateProjectFolders : MonoBehaviour
 {
